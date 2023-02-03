@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.105,D:\Programming\C++\Rad\Turimg\Unit1.h=C:\Users\Vinp\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.370,=D:\Programming\C++\Rad\Turimg\Unit4.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.816,=D:\Programming\C++\Rad\Turimg\Unit4.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.105,D:\Programming\C++\Rad\Turimg\Unit1.dfm=C:\Users\Vinp\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.133,=D:\Programming\C++\Rad\Turimg\Unit3.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.111,=D:\Programming\C++\Rad\Turimg\Unit3.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.197,=D:\Programming\C++\Rad\Turimg\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.990,D:\Programming\C++\Rad\Turimg\Project1PCH1.h=C:\Users\Vinp\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.759,=D:\Programming\C++\Rad\Turimg\File1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.588,=C:\Users\Vinp\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.105,D:\Programming\C++\Rad\Turimg\Unit1.cpp=C:\Users\Vinp\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.636,=C:\Users\Vinp\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.999,D:\Programming\C++\Rad\Turimg\Project1.cbproj=C:\Users\Vinp\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
